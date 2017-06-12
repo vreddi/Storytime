@@ -1,0 +1,24 @@
+{
+  "name": "storytime",
+  "version": "1.0.0",
+  "description": "A Skype Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vreddi/Storytime.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vreddi/Storytime/issues"
+  },
+  "homepage": "https://github.com/vreddi/Storytime#readme",
+  "dependencies": {
+    "botbuilder": "^3.8.4",
+    "mocha": "^3.4.2",
+    "restify": "^4.3.0"
+  }
+}
