@@ -1,11 +1,9 @@
-import { Page } from "./Page";
+const Page = require('./Page');
 
-export class Story {
+class Story {
 
-    /**
-    * Creates a story-book
-    */
-    buildBook(pages) {
-
+    constructor() {
     }
 }
+
+module.exports = Story;
